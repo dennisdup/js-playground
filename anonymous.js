@@ -9,8 +9,8 @@ let avg = function(numbers) {
   console.log( avg([2,3,7]) );
 
 
-  let show = (name) => {
-    console.log('Anonymous function: ', name);
+let show = (name) => {
+  console.log('Anonymous function: ', name);
 };
 
 show("Dennis");
